@@ -1,0 +1,28 @@
+body {
+    padding: 100px;
+   
+}
+
+.submit-area{
+    box-shadow: 5px 10px 10px grey ;
+    padding: 50px;
+    border-radius: 13px;
+}
+#transaction-area {
+    display: none;
+}
+
+.staus{
+    padding: 40px;
+    color: white;
+    border-radius: 10px;
+}
+.deposit{
+    background-color: aqua;
+}
+.witdraw{
+    background-color: bisque;
+}
+.balance {
+    background-color: chocolate;
+}
